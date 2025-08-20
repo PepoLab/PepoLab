@@ -23,4 +23,15 @@
   📞 CONTATO
   
    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedromartrocha/)
+
+
+ <!-- Stats Gerais -->
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PepoLab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+<!-- Streak (dias seguidos de contribuição) -->
+![Streak de Contribuições](https://nirzak-streak-stats.vercel.app/?user=PepoLab&theme=dark&hide_border=false)<br/>
+
+<!-- Linguagens mais usadas -->
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PepoLab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
    
