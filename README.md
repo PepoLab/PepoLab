@@ -5,22 +5,11 @@
 🔎 Apaixonado por dados, BI, Python e SQL  
 🚀 Buscando crescer na área de Data & Analytics
 
-## 💼 Habilidades
-- Python (ETL, Pandas, Jupyter)
-- SQL (Procedures, Carga de Dados)
-- Power BI (DAX, RLS, Dashboards)
-- Git & GitHub
-- Azure (em aprendizado)
+💼 Tecnologias
 
-## 📫 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/pedromartrocha/)
----
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-✨ Sempre aprendendo, sempre compartilhando.
 
-<div>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">"></a>
-  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img src="https://img.shields.io/badge/SQL_Server-B8860B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"></a>
-</div>
-
+  📞 CONTATOS
+   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedromartrocha/)
